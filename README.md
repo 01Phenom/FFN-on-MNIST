@@ -47,6 +47,7 @@ The MNIST dataset consists of 70,000 images of handwritten digits (0-9), each of
 4. **Effect of input size**:
    - Train a model with 4 hidden layers (256 nodes each) using ReLU activation for 10 epochs.
    - Analyze accuracy changes.
+   ![alt text](image.png)
 5. **Varying dataset splits**:
    - Experiment with different training and testing sizes.
    - Compare accuracy trends.
